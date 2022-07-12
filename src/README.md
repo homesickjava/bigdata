@@ -78,7 +78,7 @@ linux相对于win的好处：软件具备了移动性。程序具备移动性
 hdfs也维护了目录树结构，和linux一样，虚拟目录树结构。物理磁盘像win。
 目录树对硬件分区做了解耦。
 下图为hdfs架构图
-<img src="./pic/pic1.png" width="873" height="604"/>
+<img src="pic/pic1.png" width="873" height="604"/>
 
 <h2>角色功能</h2>
 <h4>NameNode</h4>  
